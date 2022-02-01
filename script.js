@@ -2,7 +2,7 @@ function hippo() {
  location.replace("https://www.youtube.com/channel/UCYRhGZWRF0PT7fXNDgejrNw")
 }
 function stick() {
-    alert("Huh? What Did You Think My Another Cousin Had A Youtube Channel No!!!!! Just Check Hippo's Channel");
+    location.replace("https://www.youtube.com/channel/UCBb1WuMhwJPhVyyMdDrskPw")
 }
 function mytwitter() {
     location.replace("https://twitter.com/notshoelaze")
