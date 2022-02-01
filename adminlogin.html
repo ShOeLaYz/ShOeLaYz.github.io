@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Only - ShOeLaZe.github.io</title>
+  </head>
+  <body>
+    <button onclick="adminlogin()">Login</button>
+    <p id="info"></p>
+    <div id="ip">
+      <script>
+        function getIP(json) {
+          document.write("Public IP: " + json.ip);
+        }
+      </script>
+      <script src="http://api.ipify.org/?format=jsonp&callback=getIP"></script>
+    </div>
+    <button onclick="showip()">Show/Hide IP</button>
+  </body>
+  <script src="bin/lg5/scr/load/scr.js"></script>
+</html>
