@@ -2,7 +2,7 @@ function hippo() {
  location.replace("https://www.youtube.com/channel/UCYRhGZWRF0PT7fXNDgejrNw")
 }
 function stick() {
-    location.replace("https://www.youtube.com/channel/UCBb1WuMhwJPhVyyMdDrskPw")
+   location.replace("https://www.youtube.com/channel/UCBb1WuMhwJPhVyyMdDrskPw")
 }
 function mytwitter() {
     location.replace("https://twitter.com/notshoelaze")
