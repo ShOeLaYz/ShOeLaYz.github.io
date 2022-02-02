@@ -10,6 +10,9 @@ function mytwitter() {
 function adminpage() {
     alert("IPs May Be Leaked Press 'Ok' To Continue");location.replace("adminlogin.html")
 }
+function license() {
+location.replace("https://github.com/ShOeLaYz/ShOeLaYz.github.io#license")
+}
 // Verifying technology support
 if (window.webkitNotifications) {
     console.log('Your browser supports Notifications');
