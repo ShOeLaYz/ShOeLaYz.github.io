@@ -12,5 +12,5 @@ Github Don't Sue Me Please.
 
 # Conditions
 1.Must Follow https://github.com/ShOeLaYz/ShOeLaYz.github.io/blob/main/README.md#License
--
+|
 2.Should Not Crack Through AdminLogin
