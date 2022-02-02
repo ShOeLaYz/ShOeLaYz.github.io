@@ -9,7 +9,7 @@ function adminlogin() {
     if (username == "admin" || username == "Sam Adams") {
     let password = prompt("Password:")
     if (password == "hipposarenoice"|| password == "yahboi") {
-        text = "";
+        text = "";alert("Page Admin Still In Work");location.reload;
       } else {
         text = "The Password '" + password + "' Is Invalid";console.error('Password(id=pwcheck)==> Password Incorrect!(');alert("Password Invalid , Try Again?");
       }}
